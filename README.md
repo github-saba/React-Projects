@@ -16,7 +16,7 @@ A simple **React front-end app** to keep track of a cricket match score.
 ## How to Run
 
 1. Clone the repository:
-      git clone https://github.com/yourusername/CricketScoreBoard.git
+      git clone https://github.com/github-saba/CricketScoreBoard.git
 2. Navigate to the project folder:
        cd CricketScoreBoard
 3. Install dependencies:
